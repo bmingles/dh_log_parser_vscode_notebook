@@ -18,5 +18,5 @@ pip3 install -r requirements.txt
 To activate `venv` on subsequent uses (may not need to do this if you set it in the notebook in Vscode):
 
 ```sh
-pip3 install -r requirements.txt
+source venv_lp/bin/activate
 ```
